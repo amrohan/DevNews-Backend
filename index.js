@@ -55,7 +55,7 @@ async function getNewFeedItems() {
     "https://dev.to/feed",
     "https://www.freecodecamp.org/news/rss",
     "https://hackernoon.com/feed",
-    "https://javascript.plainenglish.io/feed",
+   // "https://javascript.plainenglish.io/feed",
     "https://mashable.com/feeds/rss/tech",
     "https://www.technologyreview.com/feed/",
     "https://www.omgubuntu.co.uk/feed",
